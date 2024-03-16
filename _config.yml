@@ -70,14 +70,13 @@ content:
   #      description: | # this will include new lines to allow paragraphs
   #        Description about the work on/with the project
 
+
   - title: Esperienze Lavorative
     layout: list # Type of content section (list/text)
     
     content:
       - layout: left
         title: Commessa di negozio di abbigliamento
-        #link: https://www.zuiki.it/
-        # link_text: boringcompany.com
         sub_title: Zuiki
         caption: 2022
         #quote: >
@@ -87,6 +86,24 @@ content:
             - Allestimento e sistemazione della merce
             - Pulizia e riordino del negozio
             - Accoglienza e supporto ai clienti
+      
+      - layout: left
+        title: Tirocinio presso COOT
+        sub_title: San Filippo Neri
+        caption: maggio 2021 - agosto 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Prevenire e affrontare disagi e problemi psico-socio-assistenziali connessi alla malattia, al ricovero e alla riabilitazione.
+            Azione di ascolto, colloqui, di rilevazione dei bisogni e delle necessità relazionali, emotive e socio assistenziali.
+            Interventi per prevenire situazioni di disagio sociale, sostegno psico sociale.
+            Consulenze nei reparti per valutare le necessità socio assistenziali del paziente ed attivare percorsi di integrazione ospedale-territorio, organizzando anche attività post dimissione.
+            
+            - segnalazione dei casi fragili ai servizi territoriali
+            - ricoveri
+            - ospitalità RSA
+            - favorire dimissioni protette del paziente e attivarsi per il suo inserimento nel territorio di appartenenza
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -104,7 +121,7 @@ content:
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
