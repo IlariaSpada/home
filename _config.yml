@@ -75,7 +75,7 @@ content:
     layout: list # Type of content section (list/text)
     
     content:
-      - layout: top-left
+      - layout: left
         title: Commessa di negozio di abbigliamento
         sub_title: Zuiki
         caption: 2022
@@ -87,7 +87,7 @@ content:
             - Pulizia e riordino del negozio
             - Accoglienza e supporto ai clienti
       
-      - layout: top-left
+      - layout: left
         title: Tirocinio presso COOT
         sub_title: San Filippo Neri
         caption: maggio 2021 - agosto 2021
@@ -104,20 +104,88 @@ content:
             - ospitalità RSA
             - favorire dimissioni protette del paziente e attivarsi per il suo inserimento nel territorio di appartenenza
 
+      - layout: left
+        title: Tirocinio presso TSMREE
+        caption: 2018
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Fenomeni connessi alla disabilità, all'emarginazione del disagio socio ambientale e prevenire l'insorgenza di fattori che possono compromettere lo sviluppo della persona in campo cognitivo o relazionale, assicurando una presa in carico globale.
+            
+            - Progetti personalizzati per l'attivazione di percorsi che portano all'integrazione e all' autonomia degli utenti.
+            - GLHO (Gruppo di Lavoro Operativo per l'Handicap) per formulare un piano educativo individualizzato (PEI)
+            - Vineland Adaptive Behavior Scales, intervista rivolta ai genitori per valutare l'autonomia personale e la responsabilità sociale delle persone misurando livelli di sviluppo del comportamento adattivo nella comunicazione, nelle abilità quotidiane, nella socializzazione e nelle abilità motorie.
+            - Colloqui presso Tribunale dei minori
+            - Visite domiciliari
+            - SISMIF (Servizio per l'Integrazione e Sostegno a Minori In Famiglia) erogato dal Municipio per sostenere minori e famiglie.
+            - SAISH (Servizio per l'Autonomia e l'Integrazione sociale dei minori p con l'Handicap) ha lo scopo di migliorare l'autonomia e le relazioni all'interno della famiglia
+      
+      - layout: left
+        title: Tirocinio presso CSM
+        caption: giugno 2017 - agosto 2017
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Tutelare i diritti delle persone con disagio psichico o disturbo mentale. Accoglienza e valutazione diagnostica, percorsi di cura individualizzati mediante trattamenti psicoterapeutici, inserimenti ihn tirocini di lavoro, soggiorni estivi riabilitativi, lavoro di rete e orientamenti per il paziente e i suoi familiari circa l'utilizzo delle risorse sociali e socio-sanitarie extra ospedaliere
 
-  - title: Education # Title for the section
+      - layout: left
+        title: Baby Sitter
+        caption: agosto 2019 - dicembre 2021
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Per l'intera settimana ho curato l'attività di tre gemelli di 2 anni in assenza dei genitori. Ho aiutato loro dalla colazione alla preparazione del pranzo e della cena.
+            Inoltre:
+            - ho inventato giochi e attività creative per mantenere i bambini impegnati
+            - ho provveduto a farli dormire negli orari stabiliti
+            - li ho curati nella pulizia personale, dal cambio del pannolino al bagnetto
+
+      - layout: left
+        title: Baby Sitter
+        caption: 2019
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Ho aiutato una nonna a genstire 4 bambini dai 2 ai 6 anni in tutte le loro necessità, stando con loro dall'ora di pranzo all'ora di cena.
+
+      - layout: left
+        title: Baby Sitter
+        caption: luglio 2019 - settembre 2019
+        #quote: >
+        #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Ho sostituito per un mese una ragazza nella gestione di due gemelle di 5 mesi, aiutando la mamma a preparare le pappe, fare il bagnetto, ad intrattenerle e farle addormentare.
+
+
+  - title: Formazione # Title for the section
     layout: list # Type of content section (list/text)
+    
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Laurea Magistrale in Progettazione, Gestione e Valutazione dei Servizi Sociali
+        sub_title: Università La Sapienza
+        caption: 110/110
+        caption: 2019 - 2022
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Webinar di criminologia - Cold Case
+        #sub_title: Università La Sapienza
+        caption: maggio 2021
+
+      - layout: left
+        title: Laurea triennale in Scienze e Tecniche del Servizio Sociale
+        sub_title: Università La Sapienza
+        caption: 2015 - 2019
+
+      - layout: left
+        title: Corso di Alta Formazione in Scienze Forensi, Criminologia investigativa, Sopralluogo Tecnico sulla Scena Del Crimine e Criminal Profiling
+        #sub_title: Università La Sapienza
+        caption: maggio 2018 - 2019
+
+      - layout: left
+        title: Diploma Scientifico
+        sub_title: Liceo Scientifico L.A. Seneca
+        caption: 2009 - 2015
 
 
 # Footer
