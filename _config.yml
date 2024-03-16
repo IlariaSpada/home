@@ -75,7 +75,7 @@ content:
     layout: list # Type of content section (list/text)
     
     content:
-      - layout: left
+      - layout: top-left
         title: Commessa di negozio di abbigliamento
         sub_title: Zuiki
         caption: 2022
@@ -87,7 +87,7 @@ content:
             - Pulizia e riordino del negozio
             - Accoglienza e supporto ai clienti
       
-      - layout: left
+      - layout: top-left
         title: Tirocinio presso COOT
         sub_title: San Filippo Neri
         caption: maggio 2021 - agosto 2021
