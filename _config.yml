@@ -50,7 +50,7 @@ linkedin_username: ilaria-spada-3106a7242
 about_title: Chi sono
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  TODO
+  Sono Ilaria Spada, un'Assistente Sociale Specialista iscritta all'Albo A dell'ordine. Ho un solido background accademico con una Laurea Triennale in Scienze e Tecniche del Servizio Sociale e una Laurea Magistrale in Progettazione, Gestione e Valutazione dei Servizi Sociali presso l'Università La Sapienza. Ho acquisito esperienza attraverso diversi tirocini e ruoli professionali, concentrando il mio lavoro sulla prevenzione e gestione del disagio psico-socio-assistenziale. Oltre alle competenze specifiche del settore, ho anche esperienza nella cura dei bambini e nella gestione dei siti web e dei social media. Attualmente, mi dedico a offrire un supporto specializzato e a fornire un'assistenza completa ai miei clienti.
 
 content:
   # - title: Progetti # Title for the section
@@ -161,28 +161,28 @@ content:
     layout: list # Type of content section (list/text)
     
     content:
-      - layout: left
+      - layout: top-middle
         title: Laurea Magistrale in Progettazione, Gestione e Valutazione dei Servizi Sociali
         sub_title: Università La Sapienza
         caption: 110/110
         caption: 2019 - 2022
 
-      - layout: left
+      - layout: top-middle
         title: Webinar di criminologia - Cold Case
         #sub_title: Università La Sapienza
         caption: maggio 2021
 
-      - layout: left
+      - layout: top-middle
         title: Laurea triennale in Scienze e Tecniche del Servizio Sociale
         sub_title: Università La Sapienza
         caption: 2015 - 2019
 
-      - layout: left
+      - layout: top-middle
         title: Corso di Alta Formazione in Scienze Forensi, Criminologia investigativa, Sopralluogo Tecnico sulla Scena Del Crimine e Criminal Profiling
         #sub_title: Università La Sapienza
         caption: maggio 2018 - 2019
 
-      - layout: left
+      - layout: top-middle
         title: Diploma Scientifico
         sub_title: Liceo Scientifico L.A. Seneca
         caption: 2009 - 2015
