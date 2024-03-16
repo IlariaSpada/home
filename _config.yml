@@ -76,7 +76,12 @@ content:
     
     content:
       - layout: left
-        title: Commessa di negozio di abbigliamento
+        title: Gestione sito web e social media
+        link: https://www.emeraldguides.com
+        caption: febbraio 2023 - presente
+
+      - layout: left
+        title: Commessa per un negozio di abbigliamento
         sub_title: Zuiki
         caption: 2022
         #quote: >
